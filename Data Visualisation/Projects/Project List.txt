@@ -1,0 +1,54 @@
+Projects List
+==============
+
+1. World Development Indicators
+
+2. IPL matches
+
+3.  IBM HR Analytics
+
+4. Statewise Analysis Socio Economic Indicators
+
+5. Analysis of Lawn Tennis Tournaments
+
+6. World Cup
+
+7. FIFA cup
+
+8. Status of Micro Small Medium Enterprises in India
+
+9. Crime Against Women
+
+10. Tourism in India
+
+11. Loan/Credit Analysis
+
+12. Indian Budget Analysis
+
+13. Handlooms in India
+
+14. Crimes in India
+
+15. E-commerce
+
+16. NIRF Results
+
+17. Results Analysis of CUTM students (last five year passed out students)
+
+18. Malnutrition
+
+19. Population
+
+20. Performance of Indian Movies
+
+21. Crop Production in India
+
+22. Sales in Super Markets
+
+Project-2
+
+23. ERP dashboarding
+
+24. Details of Social/ Empowerment schemes of Govt. etc.
+
+25. COVID 19

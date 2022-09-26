@@ -1,4 +1,4 @@
-# this a pyton tutorial repository
+# This is ML tutorial repository
 ##### table content
 #### ===========
 1. Python (Core)

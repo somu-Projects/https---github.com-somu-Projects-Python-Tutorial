@@ -12,4 +12,4 @@
 9. [InteractiveDV](https://github.com/somu-Projects/https---github.com-somu-Projects-Python-Tutorial/tree/master/Interactive-Data-Visualization-Python)
 7. ML Modules
 9. [Dash](https://github.com/somu-Projects/https---github.com-somu-Projects-Python-Tutorial/tree/master/Data%20Visualisation/Dash)
-10. [OpenCV](https://github.com/somu-Projects/https---github.com-somu-Projects-Python-Tutorial/tree/master/Data%20Visualisation/OpenCV)
+10. [OpenCV](https://github.com/somu-Projects/https---github.com-somu-Projects-Python-Tutorial/tree/master/OpenCV)

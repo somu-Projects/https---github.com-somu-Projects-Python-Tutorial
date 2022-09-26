@@ -1,7 +1,8 @@
 # This is ML tutorial repository
 ##### table content
 #### ===========
-1. Python (Core)
+[Link text Here](https://link-url-here.org)
+1. [Python (Core)](https://github.com/somu-Projects/https---github.com-somu-Projects-Python-Tutorial/tree/master/Python%20Tutorial)
 2. NumPy
 3. Scipy
 4. Matplotlib
